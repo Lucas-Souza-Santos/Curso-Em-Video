@@ -1,0 +1,23 @@
+Algoritmos Computacionais
+	São passos a serem seguidos por um módulo processador e 
+seus respectivos usuários que, quando executados na ordem correta, 
+conseguem realizar determinada tarefa.
+	Módulo Processador -> É tudo que pode efetuar processamento.
+	Usuário -> Pessoa que usa um programa
+	Tarefa -> 
+Como são criados os algoritmos computacionais
+	-> Lógica de Programação
+		- fluxograma
+		- Nassi Shaneiderman
+		- Pseudo Código ou Portugol 
+	-> Linguagem de Programação
+	-> Sistema Completo
+
+
+
+
+
+
+
+
+
