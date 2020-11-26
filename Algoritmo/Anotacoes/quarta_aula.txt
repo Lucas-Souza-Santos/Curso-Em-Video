@@ -1,0 +1,28 @@
+Operadores Relacionais
+
+> 		maior que
+<		menor
+>= 		maior igual
+<=		menor ou igual
+=		igual
+<>		diferente
+
+Operadores Lógicos
+E
+OU
+NAO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
