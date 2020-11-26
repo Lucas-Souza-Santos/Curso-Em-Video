@@ -13,8 +13,43 @@ Como são criados os algoritmos computacionais
 	-> Linguagem de Programação
 	-> Sistema Completo
 
+Escrever algo na tela
+Comando: Escreva("pode escrever qualquer coisa")
+
+Escrever na tela e saltar uma linha
+Comando: Escreval("pode escrever qualquer coisa")
+
+Variáveis
+var
+  identificador: tipo
+
+Regras para a nomeação de identificadores de variáveis
+	1- Deve começar com uma letra
+	2- Os próximos caractere pode ser letras ou números
+	3- Não pode utilizar nenhum simbolo, exceto _
+	4- Não pode conter espaço em branco
+	5- Não pode conter letras com acentos
+	6- Não pode ser uma palavra reserva
+
+Nota1 - Valido
+Média - Invalido
+Salário Bruto - Invalido
+9idade - Invalido
+Algoritmo - Invalido
+Inicio_Algoritmo - Valido
 
 
+Tipos Primitivos
+	- Inteiro
+	- Real
+	- Caractere -> tudo o que é colocado entre aspas <-
+	- Logico 
+
+var
+	msg: caractere
+
+Atribuição
+	msg <- "Olá, Mundo"
 
 
 
