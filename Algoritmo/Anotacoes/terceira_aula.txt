@@ -1,0 +1,65 @@
+Comando de Entrada:
+Utilizando Atribuições
+Algoritmo
+var
+	Nome: Caractere
+Inicio
+	Nome <- "Gustava"
+	Escreva("Muito Prazer: ", Nome)
+FimAlgoritmo
+
+Esse Programa só vai aparecer o nome que estar armazenado na 
+variável Nome
+
+Escreva("Digite Seu Nome: ")
+Leia(Nome) -> comando novo 
+
+Programa:
+Algoritmo
+var
+	Nome: Caractere
+Inicio
+	Escreva("Escreva Seu Nome: ")
+	Leia(Nome)
+	Escreva("Muito Prazer: ", Nome)
+FimAlgoritmo
+
+Operadores Aritméticos do visualg
+					A <- 5
+					B <- 2
+	+ Adição			A + B = 7
+	- Subtração			A - B = 3
+	* Multiplicação			A * B = 10
+	/ Divisão			A / B = 2.5
+	\ Divisão Inteira		A \ B = 2
+	^ Exponenciação			A ^ B = 25
+	% Módulo(resto da divisão)	A % B = 1
+
+
+Ordem De Precedência
+( )  Parênteses
+ ^   Exponenciação
+ */  Multiplicação/ Divisão
+ + - Adição / Subtração
+
+
+Funções Aritméticas
+Abs 		Valor Absoluto
+Exp		Exponenciação
+Int		Valor Inteiro
+Pi		Retorna Pi
+RaizQ		Raiz quadrada
+Sen		Seno(rad)
+Cos		Cosseno(rad)
+Tan		Tangente(rad)
+GraupRad	Graus para Rad
+
+
+
+
+
+
+
+
+
+
